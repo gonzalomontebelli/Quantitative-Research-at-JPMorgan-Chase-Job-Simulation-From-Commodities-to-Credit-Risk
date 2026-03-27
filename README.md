@@ -224,4 +224,4 @@ This repository was built as a technical portfolio of the complete experience.
 
 ---
 
-*Gonzalo Montebelli · 2025*
+*Gonzalo Montebelli · 2026*
