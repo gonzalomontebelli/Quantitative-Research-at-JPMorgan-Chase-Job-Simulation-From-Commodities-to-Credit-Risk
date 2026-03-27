@@ -61,17 +61,6 @@ Where `t` is elapsed time in years from a base date. The `sin` and `cos` terms p
 
 **Outcome:** A callable function `estimate_price(date_str)` that accepts any date string and returns the estimated USD price, valid for any time horizon.
 
-**Model Visualizations:**
-
-![Natural Gas Historical Data](assets/images/nat_gas_raw_data.png)
-*Historical monthly natural gas price series (2021–2024)*
-
-![Model Fit + Extrapolation](assets/images/nat_gas_historical_fit.png)
-*Fitted model over historical data (blue) with 1-year extrapolation window (yellow)*
-
-![Modeling and Extrapolation](assets/images/nat_gas_model_extrapolation.png)
-*Comparison between historical prices and the modeled + 1-year extrapolated curve*
-
 **Stack:** `pandas` · `numpy` · `scikit-learn` · `matplotlib`
 
 ---
